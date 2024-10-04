@@ -13,12 +13,6 @@ This repository includes various scripts designed to enhance gameplay, automate 
 - Esp
 - More Coming Soon!
 
-**Stands Online v29:** This Stands Online v29 Script Features:
-- Esp
-  - Box
-  - Name
-  - Distance
-
 ## 🚀 Getting Started
 
 ### Prerequisites
