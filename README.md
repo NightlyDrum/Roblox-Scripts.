@@ -6,12 +6,19 @@ This repository includes various scripts designed to enhance gameplay, automate 
 
 ## 💻 Scripts
 
-### Current Scripts
-**Combat Masters:** This Combat Masters Script Features:
-- Spinbot 
-- Jump Multiplier 
-- Esp
-- More Coming Soon!
+### **Combat Warriors**
+
+**Features:**
+
+- **Spinbot**
+  - *Speed Slider* (Adjust how fast you want to spin 360°)
+
+- **ESP (Extra Sensory Perception)**
+  - *Names*
+  - *Distance*
+  - *Bounding Box*
+  - *Health*
+  - *Apply to Enemies Only*
 
 ## 🚀 Getting Started
 
