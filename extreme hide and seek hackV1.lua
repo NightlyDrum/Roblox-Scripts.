@@ -125,7 +125,7 @@ SpinbotTab:AddToggle({
 local speedSlider = SpinbotTab:AddSlider({
     Name = "Walk Speed",
     Min = 0,
-    Max = 100,
+    Max = 1000,
     Default = defaultWalkSpeed,
     Increment = 1,
     ValueName = "Speed",
